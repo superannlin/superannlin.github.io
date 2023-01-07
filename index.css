@@ -1,0 +1,36 @@
+#topbar {
+	background-color: #4FC1E9;
+}
+
+.section{
+	color: white;
+}
+
+.custom-btn {
+	width: 200px;
+}
+
+.row-centered {
+	text-align:center;
+}
+
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+.highlight{
+	color: black;
+}
+
+.contact-btn{
+	color:white;
+}
+
+.nav navbar > li > a:hover{
+    background-color:#FCC;
+}
